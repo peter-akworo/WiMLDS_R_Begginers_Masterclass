@@ -17,5 +17,5 @@ Get the datasets from [here](https://www.fueleconomy.gov/feg/download.shtml)
 
 **Thoughts:** Find out if I can replicate this vizzes using other tools would be interesting.
 
-**Link to work:** [Aesthetic Mapping](https://github.com/peter-akworo/WiMLDS_R_Begginers_Masterclass/blob/master/Exercise%203.3.1(Aesthetics%20Mappings).ipynb)
+**Link to work:** [Aesthetic Mapping](https://github.com/peter-akworo/WiMLDS_R_Begginers_Masterclass/blob/master/Exercise%203.3.1(Aesthetics%20Mappings).ipynb)</br>
 **Link to work:** [Facets](https://github.com/peter-akworo/WiMLDS_R_Begginers_Masterclass/blob/master/Exerrcise%203.3.5%20(Facets).ipynb)
