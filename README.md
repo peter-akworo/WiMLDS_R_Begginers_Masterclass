@@ -27,3 +27,4 @@ Get the datasets from [here](https://www.fueleconomy.gov/feg/download.shtml)
 **Thoughts:** Find out if I can replicate this using other tools would be interesting.
 
 **Exercises 3.6.1 :** [Geometric objects](https://github.com/peter-akworo/WiMLDS_R_Begginers_Masterclass/blob/master/Exercise%203.6.1(Geometric%20objects).ipynb)</br>
+**Exercises 3.7.1:** [Statistical transformation](https://github.com/peter-akworo/WiMLDS_R_Begginers_Masterclass/blob/master/Exercise%203.8.1%20(Stats%20transformation).ipynb)
